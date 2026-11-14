@@ -1,0 +1,3 @@
+/Users/cristiansantoro/Desktop/lab08byme/82-tdd-deathnote/build/classes/java/main/it/unibo/deathnote/DeathNoteImpl$Death.class
+/Users/cristiansantoro/Desktop/lab08byme/82-tdd-deathnote/build/classes/java/main/it/unibo/deathnote/DeathNoteImpl.class
+/Users/cristiansantoro/Desktop/lab08byme/82-tdd-deathnote/build/classes/java/main/it/unibo/deathnote/api/DeathNote.class

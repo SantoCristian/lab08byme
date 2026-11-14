@@ -1,0 +1,9 @@
+-classpath '/Users/cristiansantoro/Desktop/lab08byme/82-tdd-deathnote/build/classes/java/main:/Users/cristiansantoro/Desktop/lab08byme/82-tdd-deathnote/build/resources/main'
+-quiet 
+-d '/Users/cristiansantoro/Desktop/lab08byme/82-tdd-deathnote/build/docs/javadoc'
+-windowtitle '82-tdd-deathnote API'
+-doctitle '82-tdd-deathnote API'
+-notimestamp 
+-Xwerror '-quiet'
+'/Users/cristiansantoro/Desktop/lab08byme/82-tdd-deathnote/src/main/java/it/unibo/deathnote/DeathNoteImpl.java'
+'/Users/cristiansantoro/Desktop/lab08byme/82-tdd-deathnote/src/main/java/it/unibo/deathnote/api/DeathNote.java'

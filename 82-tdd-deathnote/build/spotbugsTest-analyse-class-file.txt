@@ -1,0 +1,7 @@
+/Users/cristiansantoro/Desktop/lab08byme/82-tdd-deathnote/build/classes/java/test/it/unibo/deathnote/TestDeathNote$1.class
+/Users/cristiansantoro/Desktop/lab08byme/82-tdd-deathnote/build/classes/java/test/it/unibo/deathnote/TestDeathNote$3.class
+/Users/cristiansantoro/Desktop/lab08byme/82-tdd-deathnote/build/classes/java/test/it/unibo/deathnote/TestDeathNote$RuntimeExceptionThrower.class
+/Users/cristiansantoro/Desktop/lab08byme/82-tdd-deathnote/build/classes/java/test/it/unibo/deathnote/TestDeathNote$IllegalStateThrower.class
+/Users/cristiansantoro/Desktop/lab08byme/82-tdd-deathnote/build/classes/java/test/it/unibo/deathnote/TestDeathNote$2.class
+/Users/cristiansantoro/Desktop/lab08byme/82-tdd-deathnote/build/classes/java/test/it/unibo/deathnote/TestDeathNote.class
+/Users/cristiansantoro/Desktop/lab08byme/82-tdd-deathnote/build/classes/java/test/it/unibo/deathnote/TestDeathNote$IllegalArgumentThrower.class
